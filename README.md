@@ -1,4 +1,4 @@
-[![MaterHead](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)]
+![MaterHead](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
 
 <h1 align="center">Hi 👋, I'm Amith B J</h1>
 <h3 align="center">A passionate Data Analytics Student from Masai</h3>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amithbj023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qj7V3KXsxApkwmrUWtHIbibB9Xl7P_qs/view?usp=share_link](https://drive.google.com/file/d/1qj7V3KXsxApkwmrUWtHIbibB9Xl7P_qs/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17mSgSKYSoJ26bHHENEfbDGokYbqY0YXx/view?usp=share_link)
 
 - ⚡ Fun fact **I think I am funny**
 
